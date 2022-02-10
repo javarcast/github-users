@@ -1,5 +1,9 @@
 # github-users
 
+## Description
+
+Project made in VueJS, to consult github users
+
 ## Project setup
 ```
 npm install
